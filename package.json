@@ -1,0 +1,14 @@
+{
+  "name": "sanavalta.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sanavalta/sanavalta.github.io.git",
+  "author": "Nico Hämäläinen <sanavalta@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gatsby": "^2.23.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
