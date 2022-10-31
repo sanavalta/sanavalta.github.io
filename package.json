@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "gatsby": "^2.23.3",
+    "gatsby": "^4.24.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
